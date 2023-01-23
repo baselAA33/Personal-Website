@@ -1,0 +1,60 @@
+/* CSS Styles used for the website */
+
+body {
+  	  background-image: url('https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png');
+          background-repeat: no-repeat;
+  	  background-attachment: fixed;
+          background-size: cover;
+	}
+#a {
+	  color: cornflowerblue;
+	  text-align: center;
+	  font-size: 30px;
+          font-family: Comic sans ms;
+          background-color: ;
+	}
+	#b {
+	  color: whitesmoke;
+	}
+        #c {
+	  color: skyblue;
+	}
+        #d {
+	  color: skyblue;
+	}
+        #e {
+	  color: skyblue;
+	}
+	hr{
+          height: 1px;
+          background-color: snow;
+          border: none;
+        }
+  h1 {
+	  color: skyblue;
+	  font-size: 45px;
+	}
+        a:link {
+  	  color: skyblue;
+          background-color: ;
+          text-decoration: none;
+        }
+	a:hover {
+          color: blue;
+          background-color: ;
+          text-decoration: bold;
+	}
+	a:active {
+  	  color: chocolate;
+  	  background-color: transparent;
+  	  text-decoration: bold;
+	}
+  footer {
+      text-align: center;
+      padding: 5px;
+      background-color: midnightblue;
+      color: lavender;
+   }
+  #f {
+     font-size: 22px;
+  }
